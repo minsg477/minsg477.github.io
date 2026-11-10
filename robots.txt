@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://minsg477.github.io/hiddenmoney-marketing/sitemap.xml
